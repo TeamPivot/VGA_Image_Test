@@ -1,0 +1,3 @@
+verilog work "Image_ROM.v"
+verilog work "VGA_Controller.v"
+verilog work "main.v"
